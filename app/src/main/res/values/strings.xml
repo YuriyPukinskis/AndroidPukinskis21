@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidPukinskis2.1</string>
+    <string name="s1">Подписка на рассылку успешно оформлена для пользователя </string>
+    <string name="s2"> на электронный адрес </string>
+    <string name="s3">Очистить</string>
+    <string name="s4">Ок</string>
+    <string name="s5">Имя</string>
+    <string name="s6">Электронная почта</string>
 </resources>
